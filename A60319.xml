@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Six matters worthy of note</title>
+         </titleStmt>
+         <extent>Approx. 28KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60319</idno><idno type="EEBO-CITATION">16971971</idno>
+  <idno type="VID">105564</idno>
+  <idno type="EEBO-PROQUEST">2240858067</idno>
+  
+            <idno type="STC">Wing S3915</idno>
+            <idno type="STC">ESTC R37552</idno>
+            <idno type="OCLC">16971971</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A60319)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105564)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1159:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Six matters worthy of note</title>
+               </titleStmt>
+               <extent>[9] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed Iune the 13, for Tho. Bankes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+                  <note>(from t.p.) I. List of the field-officers chosen and appointed for the Irish expedition by the committee at Guild-Hall ... -- II. New propositions and orders by the Lords and Commons in Parliament ... -- III. The declaration or resolution of the officers in the county of Essex, to the Earle of VVarwick ... -- IIII. The Lord Willoughby of Parham his letter to an honorable memeber of Parliament -- V. His Maiesties letter to the Lord VVilloughby of Parham --VI. The Lord VVilloughby of Parham his letter in answer to His Maiestie.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105564:1"/>
+            <p>SIX MATTERS WORTHY OF NOTE:</p>
+            <list>
+               <item>I. List of the Field-Officers chosen and appointed for the Irish Ex<g ref="char:EOLhyphen"/>pedition, by the Committee at <hi>Guild-Hall London,</hi> for the Regiments of 5000. foot and 500. Horse.</item>
+               <item>II. New Propositions and Orders by the Lords and Commons in <hi>Parliament,</hi> for bringing in of Money or Plate, &amp;c.</item>
+               <item>III. The Declaration or Resolution of the Officers in the County of <hi>Essex,</hi> to the Earle of <hi>VVarwick,</hi> L. Lievtenant of that County.</item>
+               <item>IIII. The Lord <hi>Willoughby</hi> of <hi>Parham</hi> his Letter to an Honorable Member of the <hi>PARLIAMENT.</hi>
+               </item>
+               <item>V. His Maiesties Letter to the <hi>Lord VVilloughby</hi> of <hi>Parham.</hi>
+               </item>
+               <item>VI. The Lord <hi>VVilloughby</hi> of <hi>Parham</hi> his Letter, in answer to His Maiestie.</item>
+            </list>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Die Iovis, 9. Iunii, 1642.</hi>
+                              </date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>Ordered by the Lords in Parliament, That these severall Letters and Resolutions shall be forthwith Printed and Pulished.</hi>
+                        </p>
+                        <closer>
+                           <signed>Ioh. Brown, Gler. Parliament.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed <hi>Iune</hi> the 13. for <hi>Tho: Bankes.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:105564:2"/>
+            <head>
+               <hi>The Declaration or Resolution of the Officers in the County of</hi> Essex, <hi>to the Earle of</hi> Warwick, <hi>Lord Lieutenant of that County.</hi>
+            </head>
+            <p>VVE the Captaines and Lieutenants with the full consent of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rained bands and Volunteers of the said County now assembled, having be<g ref="char:EOLhyphen"/>fore the accesse of this present Parliament seene our Religion, our Lawes, our liberties and estates brought to the brinke of ruine and subversion by the results of most desperate and wicked Counsels, could not but with <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ceeding joy behold the assembling and continuance of so great and faithfull a Councell (the representative body of this Kingdome) and with most certaine confidence commit thereto all that was deere unto us.</p>
+            <p>And having also seene the late hellish designes and actings of a Malignant partie of this kingdome, and the bloody rebellion in Ireland, all working to retard the progresse, or subvert the being of this worthy Parliament, and therein to bereave us of all our hopes of Reformation, or future peace or happinesse to this Church or Kingdome. Wee cannot but ascribe all glory and praise unto the Lord of Lords, and expresse most hearty thankefullnesse unto his blessed Instruments that great assembly, for their undan<g ref="char:EOLhyphen"/>ted resolutions, unparalleld endeavours, and happy proceedings for the common good. And herein (as not the least meanes of our safety) for the most necessary and seasonable Ordinance of theirs touching the ordering of the Militia, whereby we art put under the command and guidance of so Noble a Lord, and such worthy Gentlemen, whereun<g ref="char:EOLhyphen"/>to we humbly desire this present day and meeting may bee an evidence and pledge of our free and willing obedience.</p>
+            <p>And in having trusted our religion, and lawes, and all into the hands of that great and most faithfull Councell the Parliament, whose care and fidelitie wee have so abundant<g ref="char:EOLhyphen"/>ly found, we even bleed to see the heart and actions of our Royall King (contrary to his owne Royall expressions) declining from the Councels of His Parliament, and ca<g ref="char:EOLhyphen"/>ried after other Councels, whom, as the Lawes and constitutions of this land have not knowne, nor reposed upon: so we (for our owne parts) neither will nor dare intrust with our Religion or Lawes. And wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m we verily beleeve, could they prevaile against that highest Court (under God our chiefest Bulwarke and defence) would soone deprive us both of Religion and Law, and (notwithstanding all their specious pretences) re<g ref="char:EOLhyphen"/>duce us to a condition no lesse miserable then slavish.</p>
+            <p>From the deepe apprehensi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns of all which we doe freely and heartily promise and tender our persons and estates to assist and defend (to the uttermost) the high Court of Parliament now assembled, the members power and priviledges thereof, and therein His Maiesties person and authority, and the kingdomes peace, (according to our late Protestation) against all contrary counsels, power, and force of Armes whatsoever, which shall bee rea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d up, or attempted against them.</p>
+            <p>And this o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r humble acknowledement and resolution (which wee doubt not will bee accorded unto by all go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d subiects) wee humbly desire your Honour and Worships to tender on our behalfe unto that most Honorable Assembly of Parliament</p>
+            <p>For whose happy progresse and successe we shall daily▪ pray.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:105564:2"/>
+            <head>
+               <hi>The Lord</hi> Willoughby <hi>of</hi> parham <hi>his Letter to an Honourable Member of the house of Parliament.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>I Received a Letter from your Lordship, in which the House is pleased to do me a very great Honour, farre above any desert of mine, and little expected by me▪ for my Lord, I well know my obedience tyes me to fulfill their Commands, and in that I have done, but my duty, and that which every honest man ought to doe, and oweth of right to the Parliament; and whoso<g ref="char:EOLhyphen"/>ever hath that principle in him, it will dictate to him as much, and keep him from other by-waies: And for my owne part, my heart ever was and shall ever be, both forward and ready to obey their Lordships command in all things, both with Inte<g ref="char:EOLhyphen"/>grity and industry, and Gods curse light upon him and his, that carries any other heart about him. My Lord, it is too mean a way for me to expresse my acknow<g ref="char:EOLhyphen"/>ledgement in paper, to the House, for this high favour which I have received by your Lordships Letter. I hope to make it appear by my actions that their Lorships see, I am not an ungratefull servant. It is a great incouragement to these parts, their Lord<g ref="char:EOLhyphen"/>ships Resolutions, in giving their Commands to have the rest of the <hi>Militia</hi> put in present execution; and truly, my Lord▪ it was out of that regard that I did intimate it to my Lord of <hi>Essex,</hi> as holding it a thing much conducing to the publicke good, and the only remedy to cure these distractions which the Kingdom is in, not out of any regard to my selfe; for I know, if I suffer in executing their Lordships com<g ref="char:EOLhyphen"/>mands, it must be against their wills, and when that day comes, I will not give a straw for all I have, were I but a looker on. My Lord, as I was this day at <hi>Lincoln</hi> where I appointed to begin to Muster, there came a Messenger from his Majesty, with this Letter, which I held it my duty to acquaint the House with, and likewise my answer, and am for <hi>Lin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olne,</hi> where, as in all other places, I shall be ready to serve your Lordship.</p>
+            <closer>
+               <signed>As your most humble servant, F. WILLOUGHBY.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <p>MY Lord, ere my Letter was sealed up, I could not but give your Lordship an accompt, in how good a Posture I found the trained Band of <hi>Lincoln,</hi> which was farre beyond my expectation considering the unhappinesse in the sicknesse, being dispersed in the Town, which hindred the appearance of some; But truly my Lord that was fully supplyed by a Company of Volunteers, equall in number and good<g ref="char:EOLhyphen"/>nesse of Arms to the Trained Bands.</p>
+            <closer>
+               <dateline>Lincoln, <date>6. Iune. 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <signed>CHARLES REX.</signed>
+            </opener>
+            <p>
+               <hi>RIght trusty and wel beloved We greet you well. Whereas We understand, That you have begun to assemble▪ Train and Muster the Trained Bands of our Cou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ty of</hi> Lincoln, <hi>under pretence of an ordinance of Parliament, whereto We have not given Our consent; Which is not only contrary to Law, but to Our Command and Pleasure signified by Our Proclamation sent to the high Sheriff of that Our County: Wherefore That you may not hereafter plead Ignorance of such our prohibition; We do▪ by these Our Letters, Command, and charge you, upon your Allegiance, to desist and forbear to Raise, Muster, Train, Exercise, or Assemble together any part of the Trained Bands of that Our County, either by your selfe. or by any others imployed under you▪ or by Warrant from you. And because you may, for what you have alrea<g ref="char:EOLhyphen"/>dy done, concerning the</hi> Militia <hi>of that Our County, plead, that you had not s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> particu<g ref="char:EOLhyphen"/>lar a Command, We shall passe by what you have already done therein, So as pres<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:105564:3"/> upon your rec<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ipt hereof, you shall desist and give over <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>dling any further with a<g ref="char:EOLhyphen"/>ny thing belonging to the</hi> Militia <hi>of that Our County; But if you shall not presently desist, and further medling therewith, We are resolved to call you to a strict Accompt for your Disobedience therein, after so many particular and legall Commands giv<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> you, upon your Allegiance to the contrary, and shall esteem and proceed against you <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a disturber of the peace of Our Kingdom.</hi>
+            </p>
+            <closer>
+               <dateline>Given at our Count at <hi>York,</hi>
+                  <date>the fourth of <hi>Iune. 1642.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>AS there can be nothing of greater unhappinesse to me, then to receive a Com<g ref="char:EOLhyphen"/>mand from your Majestie, whereunto my endeavours cannot give so ready an obedience, as my affections: so I must confesse the difficulty at this time not a little, how to expresse that duty which I owe to your Majesties late Commands, and not falsifie that Trust reposed in me by your high Court of Parliament; through whose particular directions I am now come into this Countey to settle the Mil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tia, accor<g ref="char:EOLhyphen"/>ding to the Ordinance of Parliament which by the Votes of my Lord <hi>Littleton</hi> and others in the House of Peeres, better versed in the Laws then my self, passed as a Legall thing; and hath since been confirmed (if I mistake not) by his example, and your Majesties Chief Justice, Sir <hi>Iohn Banks,</hi> both in accepting their Ordinance, and nominating their Deputy Lieutenants; how much farther they proceeded, I know not.</p>
+            <p>But Sir, if the opinions of those great Lawyers drew me into an act unsuitable to your Majesties liking: I hope the want of years will excuse my want of judge<g ref="char:EOLhyphen"/>ment. And since the Command of the Parliament, I am now so far ingaged in their service as the s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ding out Warrants to summon the County to meet me this day at <hi>Lincoln,</hi> and afterwards in other places: I do most humbly beseech your Majesty not to impose that Command on me, which must needs render me false to those that relie on me, &amp; so make me more unhappier then any other misery can fall upon me.</p>
+            <p>These things, Sir, I once more humbly beseech your Majestie may be taken into your gracious consideration, &amp; that you would never be pleased to harbour any mis<g ref="char:EOLhyphen"/>conceit of me, or of this action, since nothing hath yet passed by my Commands here, or ever shall; but what shall tend to the honour and safety of your Kingdom, and to the content (I hope) of all your Majesties Subjects in these parts; amongst which I remain.</p>
+            <closer>
+               <signed>Your Majesties <hi>Most humble and dutifull Subiect and Servant.</hi> F. WILLOVGHBY.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Propositions and Orders by the Lords and Commons in Parliament, for bringing in of Money and Plate.</head>
+            <p>VVHereas it appeares that the King (seduced by wicked counsell) intends to make warre against his Parliament, and in pursuance thereof, un<g ref="char:EOLhyphen"/>der pretence of a guard for his Person, hath actually begun to levie forces both of Horse and Foote, and sent out summons throughout the County of <hi>Yorke,</hi> for the calling together of greater numbers, and some ill af<g ref="char:EOLhyphen"/>fected persons have been imploy'd in other parts to rai▪ Troops under the colour of his Majesties service, making large offers of reward and preferment to such as will come in; And that his Majestie doth with a high and forcible hand, protect and keepe away Delinquents, not permitting them to make their appearance to answer such affronts and injuries as have beene by them offered unto the Parliament, and
+<pb facs="tcp:105564:3"/> those Messengers which have beene sent from the Houses for then have beene abu<g ref="char:EOLhyphen"/>sed, beaten and imprisoned, so as the Orders of Parliament, which is the highest Court of Justice in this Realme, are not obeyed, and the authority of it is altoge<g ref="char:EOLhyphen"/>ther scorned and vilified, and such persons as stand well affected to it, and declare themselves sensible of these publike calamites, and of the violations of the Priviled<g ref="char:EOLhyphen"/>ges of Parliament and common liberty of the subject are baffled and injured by se<g ref="char:EOLhyphen"/>verall sorts of malignant men who are about the King, some whereof, under the name of Caviliers, without having respect to the Lawes of the Land, or any feare ei<g ref="char:EOLhyphen"/>ther of God or man are ready to commit all manner of outrage and violence, which must needes tend to the dissolution of this Governement, the destroying of our Re<g ref="char:EOLhyphen"/>ligion, Lawes, liberty and propriety; all which will be exposed to the malice and violence of such desperate persons as must be imployed in so horred and vnnaturall an act as the ove<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>throwing of a Parliament by force, which is the support and preservation of them; All which being d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ely considered by the Lords and Commons, and how great an obligation lies upon them, in Honour, Conscience and Duty, according to the high trust reposed in them, to use all possible meanes in such cases for the timely prevention of so great and irrecoverable evills, they have thought fit to pulish their sence and apprehention of this imminent dan<g ref="char:EOLhyphen"/>ger, thereby to excite all well affected persons to contribute their best assistance, ac<g ref="char:EOLhyphen"/>cording to their solemne Vow and Protestation, to the preparations necessary for the opposing and suppressing of the trayterous attempts of these Wicked and Ma<g ref="char:EOLhyphen"/>lignant Councellors, who seeke to engage the King in so dangerous and destructive an enterprize, and the whole Kingdome in a civill War, and destroy, the priviled<g ref="char:EOLhyphen"/>ges and being <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Parliaments: This recourse to the good affections of those that tender their Religion and just Liberties, and the injoyment of the blessed fruits of this present Parliament, which were ready almost to be reaped, and are now as rea<g ref="char:EOLhyphen"/>dy to be ruined by those wicked hands, being the onely remedy left them under God, and without which they are no longer able to preserve themselves or those by whom they are intrusted.</p>
+            <p n="1">1. They the said Lords and Commons doe declare, that whosoever shall bring in any proportion of ready Mony or Plate, or shall underwrite to furnish and main<g ref="char:EOLhyphen"/>taine any number of Horse, Horse-men and Armes for the preservation of the pub<g ref="char:EOLhyphen"/>lke peace, and for the defence of the King and both Houses of Parliament from force and violence, and to uphold the power and priviledges of the Parliament ac<g ref="char:EOLhyphen"/>cording to his Protestation shall be held a good and acceptable Service to the Com<g ref="char:EOLhyphen"/>mon-wealth, and a testimony of his good Affections of the Protestant Religion, the Lawes liberties and peace of this Kingdome, and to the Parliament and privi<g ref="char:EOLhyphen"/>ledges thereof.</p>
+            <p>And because a considerable ayde cannot be raised by few hands, and the condi<g ref="char:EOLhyphen"/>tion of all mens Easttes and occasions is not alwaies proportionable to their Affecti<g ref="char:EOLhyphen"/>on, The Lords and Commons doe declare, that no mans affections shall be measu<g ref="char:EOLhyphen"/>red according to the proportion of his offer, so that he expresse his good will to this Service in any proposition whatsoever.</p>
+            <p n="2">2. And it is further declared by the Lords and Commond in Parliament, that whosoever shall bring in any mony or plate, or shall furnish and maintaine any horse, horse-men and Armes for the puposes aforesaid, shall have their Mony re<g ref="char:EOLhyphen"/>payed with the interest according to 8. pound <hi>per cent.</hi> and the full value of their Plate, with Consideration for the fashion, not exceeding one shilling by the ounce,
+<pb facs="tcp:105564:4"/> and shall have full recompence for all their charge, in finding, furnishing and main<g ref="char:EOLhyphen"/>taining of horse, horse-men and Armes, and for this both Houses of Parliament do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> engage the publik faith.</p>
+            <p n="3">3. And it is ordained that Sir <hi>Iohn Wallaston</hi> Knight and Alderman, Alderman <hi>Towes,</hi> Alderman <hi>warner,</hi> and Alderman <hi>Andrewes</hi> shall bee Treasurers to receive all such money and plate as shall be brought in for the purposes aforesaid, and the acquittances of them or any two of them for the receipt of the same shall be a suffi<g ref="char:EOLhyphen"/>cient ground for the party so lending Money or plate to demand the same againe with the Interest, and likewise consideration for the fashion of the Plate.</p>
+            <p n="4">4. It is Ordered, That there bee Commissaries to value the Horse and Arms that shall be furnished for this service; and that a signification under the hands of them, or any two of them of such values of the Horse and Arms, and of the time when they were first brought in shall be a Warrant to demand satisfaction according to the said values▪ and they shall keep an account of the time, from the first Inrolment of any such Horse and Horse-men, That such as find and maintain them, may be re-paid according to the rate of 2 s. 6 d. <hi>per diem,</hi> for so long time as they have maintained them in this service; And the Commissaries are to attend at <hi>Guild-hall,</hi> for the receiving and inrolling of such numbers of Horse as shall be brought in.</p>
+            <p n="5">5. It is Ordered, That whosoever shall bring in Money, or Plate, or shall pro<g ref="char:EOLhyphen"/>vide and maintain Horse, Horsemen, and Arms for this service, shall do according to their duty therein And the Lords and Commons do ingage the Power, and Au<g ref="char:EOLhyphen"/>thority of Parliament, to save them harmelesse from all prejudice and inconvenience that may befall them by occasion thereof.</p>
+            <p n="6">6. It is Ordered, That the Members of either House who are present, shall be desired to Declare in their Houses respectively, what Money, or plate they will bring in, or what Horse, Horsemen and Arms they will finde and maintain.</p>
+            <p n="7">7. It is desired, That all such as have their residence in or about <hi>London,</hi> or within 80 miles will bring in their Money, plate, or Horse, within a fortnight af<g ref="char:EOLhyphen"/>ter notice, and they that dwell farther off, within three weekes.</p>
+            <p n="8">8. And because every person may not be provided with present Money, or with Horse, or not have his plate with him, which he meanes to bring in, and yet resolves to contribute his part within the time limited, and that it is necessary it should be presently known what the provision will be for the effecting of this great and im<g ref="char:EOLhyphen"/>portant service; It is ordered, that the Committees of either House appointed for that purpose respectively, shall receive the subscriptions of such Members of each House as have not declared themselves in the House, or are absent upon the pub<g ref="char:EOLhyphen"/>like service, or for their private occasions. 2. That the Committee of <hi>London</hi> in<g ref="char:EOLhyphen"/>trusted with the Militia, shall receive the subscriptions in <hi>London</hi> and <hi>Middlesex.</hi>
+            </p>
+            <p>3. That some persons nominated by the Knights and Burgesses of each Countie, and approved by both Houses, shall be appointed to receive the subscriptions in the severall Counties.</p>
+            <p n="9">9. And lastly, it is Declared, That whatsoever is brought in, shall not at all be imployed upon any other occasion, then to the purposes aforesaid; which are to maintain the Protestant Religion, the Kings Authority, and His Person, in His Roy<g ref="char:EOLhyphen"/>all Dignity, the free course of Justice, the Laws of the Land, the peace of the Kingdom, and the Priviledge of Parliament, against any force which shall oppose them. And this by the direction of both Houses of Parliament.</p>
+         </div>
+         <div type="list">
+            <pb facs="tcp:105564:4"/>
+            <head>A List of the Field-Officers chosen and appointed for the Irish Expedition, by the Committee at Guild-hall London, for the Regiments of 5000. foot and 500. horse</head>
+            <list>
+               <head>Troops of Horse.</head>
+               <item>Colonell Generalls Troop.</item>
+               <item>
+                  <hi>CAptain</hi> Ralph Whistler.</item>
+               <item>
+                  <hi>Cornet</hi> Peter Ware.</item>
+               <item>
+                  <hi>Quartermaster</hi> Nicholas Battersby,</item>
+               <item>
+                  <hi>Corporals.</hi>
+                  <list>
+                     <item>Conyers Cooper.</item>
+                     <item>Bartho. Johnson.</item>
+                     <item>Ralph Henery.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Second Troop</hi> Lord Broghill.</item>
+               <item>
+                  <hi>Lievtenant</hi> John Allen.</item>
+               <item>
+                  <hi>Cornet</hi> Cecill Ash<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ough.</item>
+               <item>
+                  <hi>Quartermast.</hi> Tho. Hudson.</item>
+               <item>
+                  <hi>Corporals.</hi>
+                  <list>
+                     <item>George Staples.</item>
+                     <item>Robert Bennet.</item>
+                     <item>Thomas Allen.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Third Troop. Sir</hi> Faithfull Fortescue.</item>
+               <item>
+                  <hi>Lievtenant</hi> Francis Dovet.</item>
+               <item>
+                  <hi>Cornet</hi> Thomas Fortescue.</item>
+               <item>
+                  <hi>Quartermaster</hi> Jo. Coyshe.</item>
+               <item>
+                  <hi>Corporals.</hi>
+                  <list>
+                     <item>Jo. Vangerich.</item>
+                     <item>Jo. Marshall.</item>
+                     <item>Ralph Walcot.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Fourth Troop. Lievt. Colonel</hi> Jo. Hurry.</item>
+               <item>
+                  <hi>Lievtenant</hi> William Mercer.</item>
+               <item>
+                  <hi>Cornet</hi> Sedescue.</item>
+               <item>
+                  <hi>Quartermast.</hi> Jo. Pearne.</item>
+               <item>
+                  <hi>Corporals.</hi>
+                  <list>
+                     <item>Ral. Vickerman</item>
+                     <item>Rich. Whymper</item>
+                     <item>Will. Crane.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Fift Troop</hi> Alexander Nayrne.</item>
+               <item>
+                  <hi>Lievtenant</hi> William Hyde.</item>
+               <item>
+                  <hi>Cornet</hi> Marmaduke Cooper.</item>
+               <item>
+                  <hi>Quarterm.</hi> Gideon Look,</item>
+               <item>
+                  <hi>Corporals.</hi>
+                  <list>
+                     <item>Nath. Walmsley.</item>
+                     <item>Hugh Farr.</item>
+                     <item>Hen Ballard <hi>his Eusigne.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Sixth troop</hi> Jo. Trenchard.</item>
+               <item>
+                  <hi>Lievtenant</hi> Adam Baynard.</item>
+               <item>
+                  <hi>Cornet</hi> Jo. Hyde.</item>
+               <item>
+                  <hi>Quartermast.</hi> Francis. Fook.</item>
+               <item>
+                  <hi>Corporals.</hi>
+                  <list>
+                     <item>Jo. Freake.</item>
+                     <item>Jo. Starkey</item>
+                     <item>Thom. Gwalter.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Seventh Troop</hi> William St. Leger.</item>
+               <item>
+                  <hi>Lievtenant</hi> Ed. Leventhorp.</item>
+               <item>
+                  <hi>Cornet</hi> Skrynsheere.</item>
+               <item>
+                  <hi>Quartermaster</hi> Philip Vanderhiden.</item>
+               <item>
+                  <hi>Corporals.</hi>
+                  <list>
+                     <item>Ed. Gray.</item>
+                     <item>Nicho. Phipp.</item>
+                     <item>Robert Wood.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Foot Companies.</head>
+               <item>
+                  <hi>COlonell Generall. his Captain</hi> Edward Massy. <hi>his Engsine</hi> Oliver Cromwell.</item>
+               <item>
+                  <hi>Lievetenant Colonell and Serieant Ma<g ref="char:EOLhyphen"/>ior Generall</hi> Jeremy-Horton. <hi>his Lievtenant</hi> Thomas Browne. <hi>his Ensigne</hi> Edward Greene.</item>
+               <item>Serieant Maior Over Parry.</item>
+               <item>his Lievtenant Ed. Browne.</item>
+               <item>his Ensigne Rob. hughes.</item>
+               <item>first Captaine Vincent Calmady. his lievtenant Edward Tyrer▪ his Ensigne Richard Bland.</item>
+               <item>second Captaine Rob. long. his lievtenant Tho. Allanby. his Ensigne Rob. Moore.</item>
+               <item>Third Captaine henry Carew. his lievtenant Charles hol croft. his Ensigne William heyden.</item>
+               <item>Fourth Captain hen▪ Skipwith. his lievtenant Io. Ivey. his Ensigne Oliver St. Iohn.</item>
+               <item>Fift C. of Firelocks Elias Struice. his lievtenant Ed. Gray. his Ensigne Tho. Barber.</item>
+               <item>Second Colonel Lord Kerrey. Cap. Robert hamond.</item>
+               <item>his Ensigne Richard Bagor,</item>
+               <item>lievtenant Colonell, henry Shelly his lievtenant Io. Ramsford. his Ensigne Io. Ashfield.</item>
+               <item>Serieant Maior Dan. Goodrick. his lieftenant Geo lower. his Ensigne Ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rles Blo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt,</item>
+               <pb facs="tcp:105564:5"/>
+               <item>First Cap. Charles Dawson. his lievtenant philip Meau<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as. his Ensigne Iacob Stringer.</item>
+               <item>Second Ca. herbert Clanchard. his lievte. Morgan Tinney. his En. Christo. Chudleigh.</item>
+               <item>Third cap. Agmondisham Muschamp. his lievtenant William Doth wait. his Ensigne Gervase Brach.</item>
+               <item>Fourth cap. Paul Wats. his Lievtenant Andrew Manwaring. his Ensigne Thomas Barriffe.</item>
+               <item>Fifth Cap. for firelocks William Lower. his leiftenant Redman. his Ensigne Iohn Raymond.</item>
+               <item>Third Colonell Tho. Ballard. his lievtenant Thomas Grover. his Ensigne, Leonard Morton.</item>
+               <item>Lievetnant Colonell, Sir Ed. Denny. his Lievetenant, Ed. Odingsells. his Ensigne, William Garfoot.</item>
+               <item>Serjeant Major, Francis Martin. his Lievtenant, Robert Noyce. his Ensigne, Iohn Hardy.</item>
+               <item>First Captaine, Captaine Primrose. his Lievtenant, Edward. Norbury. his Ensigne, William-Fowlis.</item>
+               <item>Second Captain, Edward Allen. his Lievtenant, Fran. Bowyer. his Ensigne, Robert Goodwin.</item>
+               <item>Third Captain Fran. Fook. his Lievtenant Tho. Nayerne. his Ensigne Hen. Higgins.</item>
+               <item>Fourth Captain Thomas Middleton. his Lievtenant John Lookar, his Ensigne Charles Parker.</item>
+               <item>Fifth Cap. for Firelocks Peter Nurford. his Lievtenant Robert Davis. his Ensigne Hen. Cope.</item>
+               <item>Fourth Colonell Charles Essex. his Captain Fran. Hall. his Ensigne Io. Shipman.</item>
+               <item>Lievtenant Col. Adam Cuningham. his Lievtenant Peter Crispe. his Ensigne Leonard Hawkins.</item>
+               <item>Serjeant Maior Tho. Ogle. his Lievtenant Iames Webb. his Ensigne, Rich. Osborne.</item>
+               <item>First Captain William Roberts. his Lievtenant Am. Tindall. his Ensigne Iohn Watkins.</item>
+               <item>Second Capt. George Narrow. his Lievtenant Edward Barnwell. his Ensigne Tho. Paramour.</item>
+               <item>Third Captain Constance Ferrer. his Lievtenant William Hewet. his Ensigne Io. Hemings.</item>
+               <item>Fourth Captain Sam. Loftus. his Lievtenant Iames Barrell. his Ensigne Fran. Butler.</item>
+               <item>Fifth Cap. for fire-locks Iohn <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inkins. his Lievtenant Bartho. Elecot. his Ensigne Mr. Wayte.</item>
+               <item>Fifth Colonell, William Bamfield. his Captaine, Samuel Prince. his Ensigne, Casworth.</item>
+               <item>Lievtenant Colonell Wagstaffe. his Lievtenant, Thomas Coloby. his Ensigne, Robert Nelson.</item>
+               <item>Serjeant Major, George Hutchinson. his Lievtenant, Iohn Minshaw. his Ensigne, William Boucher.</item>
+               <item>First Captaine, Iohn Bainfield. his Lievtenant, Richard Bigney. his Ensigne, Ralph Garts.</item>
+               <item>Second Captaine, Horatio Carey. his Lievtenant Allen Povey. his Ensigne Humfrey Burton.</item>
+               <item>Third Captaine, Robert Baker. his Lievtenant, Michel Bland. his Ensigne, Iohn Rose.</item>
+               <item>Fourth Captaine▪ Christopher Burgh. his Lievtenant, Thomas Hoare. his Ensigne, Samuell Manaton.</item>
+               <item>Fifth Capt. for Fire-locks, Rich. Benson. his Lievtenant, Thomas Latimer. his Ensigne, Iohn Brow<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:105564:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
